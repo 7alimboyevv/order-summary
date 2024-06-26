@@ -1,0 +1,12 @@
+.liner {
+    width: 600px;
+    height: 600px;
+    margin: 0 auto;
+    border: 5px solid red;
+    background-image: linear-gradient( black);
+.radial {
+    width: 600px;
+    height: 600px;
+    margin: 0 auto;
+    background-image:radial-gradient()
+}
